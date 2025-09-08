@@ -23,7 +23,7 @@
 
   <!-- Section Titles -->
   <h2 style="font-size: 1.25em; border-bottom: 2px solid #e1e4e8; padding-bottom: 0.25em;">
-    תיאור המשימה
+  רקע הפרויקט
   </h2>
   <p style="margin-top: 0.5em; margin-bottom: 1.5em;">
     אתה <em>אנליסט נתונים</em> במחלקת משאבי אנוש בארגון. ברשותך נתונים על כל העובדים בחברה.
