@@ -18,7 +18,7 @@
   <!-- Tools Used -->
 <p style="text-align: center; font-size: 0.95em; color: #24292e; margin-top: 0; margin-bottom: 2em;">
   <strong>כלים:</strong>
-  Excel
+  Excel (pivot tables, dashboards, advanced functions)
 </p>
 
   <!-- Section Titles -->
