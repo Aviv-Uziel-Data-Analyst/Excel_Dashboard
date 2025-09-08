@@ -15,6 +15,11 @@
       Analiza College
     </a>
   </p>
+  <!-- Tools Used -->
+<p style="text-align: center; font-size: 0.95em; color: #24292e; margin-top: 0; margin-bottom: 2em;">
+  <strong>כלים:</strong>
+  Excel
+</p>
 
   <!-- Section Titles -->
   <h2 style="font-size: 1.25em; border-bottom: 2px solid #e1e4e8; padding-bottom: 0.25em;">
