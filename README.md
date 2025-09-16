@@ -60,13 +60,14 @@
 
   <!-- Screenshots -->
   <h2 style="font-size: 1.25em; border-bottom: 2px solid #e1e4e8; padding-bottom: 0.25em;">
-    הדגמת תוצאות
+    דאשבורד מעמיק על עובדי החברה
   </h2>
-  <p style="margin-bottom: 1em; text-align: center;"><strong>דאשבורד מעמיק על עובדי החברה</strong></p>
   <p style="text-align: center; margin-bottom: 2em;">
     <img src="https://github.com/user-attachments/assets/6f4f7050-4e22-488e-bcd5-0ae56fdf8b66" alt="Dashboard גיוס" style="max-width:100%; border:1px solid #e1e4e8; border-radius:4px;">
   </p>
-  <p style="margin-bottom: 1em; text-align: center;"><strong>מסקנות ותובנות להנהלת החברה</strong></p>
+    <h2 style="font-size: 1.25em; border-bottom: 2px solid #e1e4e8; padding-bottom: 0.25em;">
+    דאשבורד מעמיק על עובדי החברה
+  </h2>
   <p style="text-align: center; margin-bottom: 2em;">
     <img src="https://github.com/user-attachments/assets/16ebdde9-6f68-41c7-bf03-7a4c00218c4f" alt="Dashboard גיוון" style="max-width:100%; border:1px solid #e1e4e8; border-radius:4px;">
   </p>
