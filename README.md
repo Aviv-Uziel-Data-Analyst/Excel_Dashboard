@@ -4,6 +4,15 @@
   <!-- Header -->
   <h1 style="text-align: center; font-size: 2em; margin-bottom: 0.5em;">
     פרויקט מסכם – HR Dashboard ב-Excel
+
+<div dir="rtl" align="right">
+ 
+  <img src="https://img.shields.io/badge/Excel-forestgreen">
+  <img src="https://img.shields.io/badge/Dashboard-blue">
+  <img src="https://img.shields.io/badge/Analytics Report-yellow">
+  
+</div>
+
   </h1>
 
  <!-- Subheader -->
