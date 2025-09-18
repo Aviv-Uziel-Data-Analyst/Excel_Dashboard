@@ -1,11 +1,10 @@
-<!-- Paste this at the top of your README.md -->
 <div dir="rtl" style="font-family: -apple-system, BlinkMacSystemFont, “Segoe UI”, Roboto, “Helvetica Neue”, Arial, sans-serif; color: #24292e; line-height: 1.6; margin: 1rem;">
 
   <!-- Header -->
   <h1 style="text-align: center; font-size: 2em; margin-bottom: 0.5em;">
-    פרויקט מסכם – HR Dashboard ב-Excel
+    Excel HR Data Dashboard
 
-<div dir="rtl" align="right">
+<div dir="ltr" align="left">
  
   <img src="https://img.shields.io/badge/Excel-forestgreen">
   <img src="https://img.shields.io/badge/Dashboard-blue">
