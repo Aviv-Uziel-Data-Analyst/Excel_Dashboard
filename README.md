@@ -49,6 +49,16 @@
     <li><strong>Origin Diversity Examination:</strong> Breakdown by geographic region, comparison of success rates by origin</li>
     <li><strong>Prediction Model – Successful Employee:</strong> IF/VLOOKUP formulas, Pivot Tables</li>
   </ol>
+  <h2 style="font-size: 1.25em; border-bottom: 2px solid #e1e4e8; padding-bottom: 0.25em;">
+    How to open the project:
+  </h2>
+  <p style="margin-top: 0; margin-bottom: 2em;">
+    <li>To view it yourself, download  <a href="Excel%20Summary%20Exercise.xlsx">Dashboard.xlsx</a>. </li>
+    ONLY works with Microsoft Excel.
+</p>
+
+
+  </p>
   <!-- Screenshots -->
   <h2 style="font-size: 1.25em; border-bottom: 2px solid #e1e4e8; padding-bottom: 0.25em;">
     Dashboard on Company Employees
